@@ -5,5 +5,3 @@
 
 ## Description
 - charts
-
-# exercise-5
